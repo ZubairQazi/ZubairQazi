@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Zubair (zoo-bear)! I'm currently a third-year stuyding Computer Science at UC Riverside. My main interests are data science / machine learning and mobile app development, though I enjoy most areas of CS! 
+I'm Zubair (zoo-bear)! I'm currently a third-year studying Computer Science at UC Riverside. My main interests are in data science / machine learning and mobile app development, though I enjoy most areas of CS! 
 
 ### 🌱I'm currently:
 Looking for an internship opportunity for Summer 2021!
