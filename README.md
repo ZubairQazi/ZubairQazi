@@ -10,9 +10,6 @@ Event Manager for [ACM@UCR](https://acmucr.org/), so if you're interested in hos
 ### 📫 How to reach me:
 Feel free to reach out if you would to connect with me! You can find me on [LinkedIn](https://www.linkedin.com/in/zubair-qazi/) or by [Email](mailto:zqazi004@ucr.edu).
 
-### ⚡ Fun fact:
-I love LEGO and Star Wars! I have a collection of sets and memorabilia that I've been building up since I was a kid.
-
 <!--
 **ZubairQazi/ZubairQazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
