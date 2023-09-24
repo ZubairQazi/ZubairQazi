@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Zubair (zoo-bear)! I'm currently a Master's student studying Computer Science at UC Riverside. My main interests are in data mining / machine learning, though I enjoy most areas of CS! 
+I'm Zubair (zoo-bear)! I'm a CS Master's graduate looking for full-time roles. My main interests are in data mining / machine learning, though I enjoy most areas of CS! 
 
 ### 📫 How to reach me:
 Feel free to reach out if you would to connect with me! You can find me on [LinkedIn](https://www.linkedin.com/in/zubair-qazi/) or by [Email](mailto:zqazi004@ucr.edu).
