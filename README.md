@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm Zubair (zoo-bear)! My main interests are in data mining / machine learning, though I enjoy most areas of CS! 
+I'm Zubair (zoo-bear)! I'm a PhD student at the University of Michigan in the GEMS Lab / AI Lab. My main interests are in data mining / graph mining / machine learning, though I enjoy most areas of CS! Working on LLM and Agentic workflow projects.
 
 ### 📫 How to reach me:
 Feel free to reach out if you'd like to connect with me! You can find me on [LinkedIn](https://www.linkedin.com/in/zubair-qazi/) or by [Email](mailto:zqazi@umich.edu).
