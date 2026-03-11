@@ -3,7 +3,7 @@
 I'm Zubair (zoo-bear)! My main interests are in data mining / machine learning, though I enjoy most areas of CS! 
 
 ### 📫 How to reach me:
-Feel free to reach out if you'd like to connect with me! You can find me on [LinkedIn](https://www.linkedin.com/in/zubair-qazi/) or by [Email](mailto:zqazi004@ucr.edu).
+Feel free to reach out if you'd like to connect with me! You can find me on [LinkedIn](https://www.linkedin.com/in/zubair-qazi/) or by [Email](mailto:zqazi@umich.edu).
 
 <!--
 **ZubairQazi/ZubairQazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
